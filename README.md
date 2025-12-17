@@ -16,7 +16,8 @@ It demonstrates a **microservice-based application** with a full observability s
 
 ## 🖼 Service Diagram
 
-![Service Diagram](images/service-diagram.png)
+<img width="1000" height="1007" alt="image" src="https://github.com/user-attachments/assets/05ba6497-88d1-4de5-83e8-ea09b72ceb08" />
+
 
 *This diagram illustrates the flow of requests between the different microservices, the technologies used, and the communication protocols.*
 
