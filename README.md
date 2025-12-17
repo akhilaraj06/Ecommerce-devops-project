@@ -1,24 +1,32 @@
 # 🪐 Astronomy Shop – DevOps Observability Demo
 
 This is my fork and implementation of the **Astronomy Shop** demo, adapted from the OpenTelemetry demo project.  
-It showcases a **microservice-based application** with full observability setup, built to practice **DevOps concepts** like CI/CD, containerization, and monitoring.
+It demonstrates a **microservice-based application** with a full observability stack, implemented as a hands-on DevOps learning project.
 
 ---
 
-## 🔹 Purpose
+## 🔹 Project Purpose
 
-- Hands-on learning project for **DevOps and Observability**.
-- Demonstrates **tracing, metrics, and logging** in a microservices environment.
-- Implements **Docker, Kubernetes**, and **OpenTelemetry** integrations.
+- Practice **DevOps skills**: CI/CD, containerization, orchestration, monitoring.
+- Implement **observability** using OpenTelemetry across microservices.
+- Deploy services using **Docker** and **Kubernetes**.
 
 
 ---
 
-## ⚙️ Features
+## 🖼 Service Diagram
 
-- Multi-service microservice architecture simulating an online shop.
-- Instrumented with **OpenTelemetry** for monitoring and tracing.
-- Dockerized services for local testing.
-- Kubernetes manifests for cluster deployment.
-- Observability stack using **Prometheus** and **Grafana**.
-- CI/CD pipeline implemented using **GitHub Actions**.
+![Service Diagram](images/service-diagram.png)
+
+*This diagram shows the flow of requests between the different microservices, technologies used, and communication protocols.*
+
+---
+
+## ⚙️ Key Features
+
+- Multi-service **microservice architecture** simulating an online shop.
+- **End-to-end observability**: tracing, metrics, and logs via OpenTelemetry.
+- **Dockerized services** for quick local setup.
+- **Kubernetes manifests** for cluster deployment.
+- **Monitoring & visualization** with Prometheus and Grafana.
+- **CI/CD pipeline** implemented using GitHub Actions.
