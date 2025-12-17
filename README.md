@@ -10,7 +10,7 @@ It showcases a **microservice-based application** with full observability setup,
 - Hands-on learning project for **DevOps and Observability**.
 - Demonstrates **tracing, metrics, and logging** in a microservices environment.
 - Implements **Docker, Kubernetes**, and **OpenTelemetry** integrations.
-- Serves as a portfolio project to show practical DevOps skills.
+
 
 ---
 
