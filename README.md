@@ -18,7 +18,8 @@ It demonstrates a **microservice-based application** with a full observability s
 
 ![Service Diagram](images/service-diagram.png)
 
-*This diagram shows the flow of requests between the different microservices, technologies used, and communication protocols.*
+*This diagram illustrates the flow of requests between the different microservices, the technologies used, and the communication protocols.*
+
 
 ---
 
